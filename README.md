@@ -1,15 +1,9 @@
 # 𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙇𝙊𝙉𝙄𝙉𝙂
-#    𝙑𝙄𝙋 𝙏𝙊𝙊𝙇
-# ➪ 𝙏𝙤𝙤𝙡 ➤ 𝙑𝙄𝙋 𝙍𝘼𝙉𝘿𝙊𝙈
+# 𝙑𝙄𝙋 𝙏𝙊𝙊𝙇 𝘃𝟯
+# 𝙏𝙤𝙤𝙡 ➤ 𝙑𝙄𝙋 𝙍𝘼𝙉𝘿𝙊𝙈
 
-➪ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 ➤ 𝙅𝙊𝙃𝙉𝙔
-
-➪ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣 ➤ 𝙈𝙖𝙭
-
-➪ 𝙁𝙚𝙖𝙩𝙪𝙧𝙚 ➤ 𝙐𝙥𝙙𝙖𝙩𝙚 𝙈𝙚𝙩𝙝𝙤𝙙 𝟔+
-
-➪ 𝙁𝙚𝙖𝙩𝙪𝙧𝙚 ➤ 𝙊𝙠 𝙞𝙙 𝙊𝙣𝙡𝙮
-
+![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150444134.jpg)
+![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150551681.jpg)
 
 # ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐈𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 : 👇
 
@@ -24,7 +18,7 @@
 
       git clone https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM
       cd LMNx9-VIP-RANDOM
-      python3 'LMNx9 VIP RANDOM.py'
+      python3 LMNx9_VIP_RANDOM_v3.py
 
 #       ⳹⳹😈⳼⳼
 #        @𝗟𝗠𝗡𝘅𝟗
