@@ -5,6 +5,8 @@
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150444134.jpg)
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150551681.jpg)
 
+# Username : VIP
+# Password : LMNx9
 # ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐈𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 : 👇
 
       apt update && upgrade
@@ -20,5 +22,5 @@
       cd LMNx9-VIP-RANDOM
       python3 LMNx9_VIP_RANDOM_v3.py
 
-#       ⳹⳹😈⳼⳼
-#        @𝗟𝗠𝗡𝘅𝟗
+
+#        @DARK_LMNx9
