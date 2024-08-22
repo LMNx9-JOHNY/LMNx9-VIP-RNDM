@@ -1,8 +1,7 @@
 # VIP RANDOM v5
 # FREE & FAST
 
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150444134.jpg)
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/InShot_20231202_150551681.jpg)
+![LOGO](https://github.com/LMNx9-JOHNY/LMNx9-VIP-RANDOM/blob/main/photo_2024-08-22_20-47-04.jpg)
 
 # Username : v5
 # Password : lmnx9
