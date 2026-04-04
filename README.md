@@ -34,14 +34,12 @@
 
 ## ⚙️ Command 
 ```
-apt update && upgrade
-pkg update && upgrade
+apt update && apt upgrade
 dpkg --configure -a
-rm -rf SMS-SPAM
-git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS-SPAM
-cd SMS-SPAM
+git clone --depth=1 https://github.com/LMNx9-JOHNY/VIP-RANDOM
+cd VIP-RANDOM
 chmod +x *
-./SPAM_v9.bin
+./v7.bin
 ```
 
 ---
